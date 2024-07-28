@@ -4,5 +4,5 @@ This code uses the backend to create the connection between the LLM and the memo
 You'll have to download python and all langchain and streamlit related dependencies in order to run it.
 To run it just run
 ```sh
-streamlit run front_end_chatbot.py
+streamlit run chatbot_frontend.py
 ```
